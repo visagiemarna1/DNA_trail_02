@@ -1,0 +1,20 @@
+# Raw reads (keep them local)
+Fastq/
+*.fastq
+*.fastq.gz
+*.fq
+
+# Bulky intermediates (keep small summaries/results)
+output/*.fastq
+output/*.fq
+output/*_merged*.fastq
+output/*_filtered*.fasta.gz
+
+# OS/editor
+.DS_Store
+*.swp
+*.kate-swp
+.vscode/
+.Rproj.user/
+!output/zotus.fasta
+!output/otutable.txt
