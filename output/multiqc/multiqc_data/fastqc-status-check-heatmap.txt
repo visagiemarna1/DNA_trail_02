@@ -1,0 +1,19 @@
+.	Basic Statistics	Per Base Sequence Quality	Per Tile Sequence Quality	Per Sequence Quality Scores	Per Base Sequence Content	Per Sequence GC Content	Per Base N Content	Sequence Length Distribution	Sequence Duplication Levels	Overrepresented Sequences	Adapter Content
+293_S71_L001_clean_FINAL	1	1	0.25	1	0.25	0.25	1	0.5	0.25	0.25	1
+293_S71_L001_merged	1	1	1	1	0.25	0.25	1	0.5	0.25	0.25	1
+294_S72_L001_clean_FINAL	1	1	0.25	1	0.25	0.25	1	0.5	0.25	0.25	1
+294_S72_L001_merged	1	1	0.25	1	0.25	0.25	1	0.5	0.25	0.25	1
+295_S73_L001_clean_FINAL	1	1	0.25	1	0.25	0.5	1	0.5	0.25	0.25	1
+295_S73_L001_merged	1	1	0.25	1	0.25	0.5	1	0.5	0.25	0.25	1
+296_S77_L001_clean_FINAL	1	1	0.25	1	0.25	0.25	1	0.5	0.25	0.25	1
+296_S77_L001_merged	1	1	0.25	1	0.25	0.25	1	0.5	0.25	0.25	1
+297_S78_L001_clean_FINAL	1	1	0.25	1	0.25	0.25	1	0.5	0.25	0.25	1
+297_S78_L001_merged	1	1	0.25	1	0.25	0.25	1	0.5	0.25	0.25	1
+298_S79_L001_clean_FINAL	1	1	0.25	1	0.25	0.5	1	0.5	0.25	0.25	1
+298_S79_L001_merged	1	1	1	1	0.25	0.5	1	0.5	0.25	0.25	1
+299_S80_L001_clean_FINAL	1	1	0.25	1	0.25	0.5	1	0.5	0.25	0.25	1
+299_S80_L001_merged	1	1	1	1	0.25	1	1	0.5	0.25	0.25	1
+300_S81_L001_clean_FINAL	1	1	0.25	1	0.25	1	1	0.5	0.25	0.25	1
+300_S81_L001_merged	1	1	0.25	1	0.25	1	1	0.5	0.25	0.25	1
+301_S82_L001_clean_FINAL	1	1	0.25	1	0.25	0.25	1	0.5	0.25	0.25	1
+301_S82_L001_merged	1	1	0.25	1	0.25	0.25	1	0.5	0.25	0.25	1

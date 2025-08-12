@@ -1,0 +1,10 @@
+Sample	Reads passing filters	Reads that were too short
+293_S71_L001_merged	61242.0	3.0
+294_S72_L001_merged	77043.0	22.0
+295_S73_L001_merged	18724.0	32.0
+296_S77_L001_merged	32566.0	27.0
+297_S78_L001_merged	63816.0	9.0
+298_S79_L001_merged	66846.0	0.0
+299_S80_L001_merged	44733.0	22.0
+300_S81_L001_merged	50624.0	0.0
+301_S82_L001_merged	20623.0	100.0

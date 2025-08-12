@@ -1,0 +1,11 @@
+usearch v11.0.667_i86osx64, 8.6Gb RAM, 8 cores
+(C) Copyright 2013-18 Robert C. Edgar, all rights reserved.
+https://drive5.com/usearch
+
+From 2024 donated to public domain under CC0-1.0 license
+
+00:00 4.9Mb  FASTQ base 33 for file /Users/marnavisagie/Documents/DNA_trail_02/output/trimmed/299_S80_L001_trimmed.fastq
+00:00 5.9Mb     0.1% Filtering00:01 19Mb     13.3% Filtering, 100.0% passed00:01 19Mb    100.0% Filtering, 100.0% passed
+     44733  Reads (44.7k)                    
+         9  Discarded reads with expected errs > 1.00
+     44724  Filtered reads (44.7k, 100.0%)

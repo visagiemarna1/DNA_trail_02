@@ -1,0 +1,61 @@
+This is cutadapt 5.0 with Python 3.9.6
+Command line parameters: -e 0.1 -m 50 -g ^TAGAACAGGCTCCTCTAG -a GCATAGTGGGGTATCTAA -o /Users/marnavisagie/Documents/DNA_trail_02/output/trimmed/294_S72_L001_trimmed.fastq /Users/marnavisagie/Documents/DNA_trail_02/output/merged/294_S72_L001_merged.fastq
+Processing single-end reads on 1 core ...
+
+=== Summary ===
+
+Total reads processed:                  77,065
+Reads with adapters:                    76,792 (99.6%)
+
+== Read fate breakdown ==
+Reads that were too short:                  22 (0.0%)
+Reads written (passing filters):        77,043 (100.0%)
+
+Total basepairs processed:    10,758,717 bp
+Total written (filtered):      9,227,675 bp (85.8%)
+
+=== Adapter 1 ===
+
+Sequence: TAGAACAGGCTCCTCTAG; Type: anchored 5'; Length: 18; Trimmed: 1296 times
+
+No. of allowed errors: 1
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+18	12	0.0	1	4 8
+19	1284	0.0	1	0 1284
+
+
+=== Adapter 2 ===
+
+Sequence: GCATAGTGGGGTATCTAA; Type: regular 3'; Length: 18; Trimmed: 75496 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-9 bp: 0; 10-18 bp: 1
+
+Bases preceding removed adapters:
+  A: 94.0%
+  C: 0.0%
+  G: 6.0%
+  T: 0.0%
+  none/other: 0.0%
+WARNING:
+    The adapter is preceded by 'A' extremely often.
+    The provided adapter sequence could be incomplete at its 5' end.
+    Ignore this warning when trimming primers.
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+14	1	0.0	1	0 1
+17	5	0.0	1	0 5
+18	91	0.0	1	10 81
+19	28848	0.0	1	17005 11843
+20	22021	0.0	1	13292 8729
+21	24506	0.0	1	16319 8187
+22	24	0.0	1	16 8
+
+
+WARNING:
+    One or more of your adapter sequences may be incomplete.
+    Please see the detailed output above.

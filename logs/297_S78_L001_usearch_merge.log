@@ -1,0 +1,32 @@
+usearch v11.0.667_i86osx64, 8.6Gb RAM, 8 cores
+(C) Copyright 2013-18 Robert C. Edgar, all rights reserved.
+https://drive5.com/usearch
+
+From 2024 donated to public domain under CC0-1.0 license
+
+
+Merging
+  Fwd /Users/marnavisagie/Documents/DNA_trail_02/Fastq/297_S78_L001_R1_001.fastq
+  Rev /Users/marnavisagie/Documents/DNA_trail_02/Fastq/297_S78_L001_R2_001.fastq
+  Keep read labels
+
+00:00 5.6Mb  FASTQ base 33 for file /Users/marnavisagie/Documents/DNA_trail_02/Fastq/297_S78_L001_R1_001.fastq
+00:00 5.9Mb     0.1% 0% merged00:00 53Mb    100.0% 90.0% merged
+
+Totals:
+     70942  Pairs (70.9k)
+     63825  Merged (63.8k, 89.97%)
+     57184  Alignments with zero diffs (80.61%)
+      1132  Too many diffs (> 5) (1.60%)
+         4  Fwd tails Q <= 2 trimmed (0.01%)
+         3  Rev tails Q <= 2 trimmed (0.00%)
+      5855  Fwd too short (< 64) after tail trimming (8.25%)
+        64  Rev too short (< 64) after tail trimming (0.09%)
+        66  No alignment found (0.09%)
+         0  Alignment too short (< 16) (0.00%)
+       774  Staggered pairs (1.09%) merged & trimmed
+    139.11  Mean alignment length
+    139.11  Mean merged length
+      0.06  Mean fwd expected errors
+      0.11  Mean rev expected errors
+      0.02  Mean merged expected errors

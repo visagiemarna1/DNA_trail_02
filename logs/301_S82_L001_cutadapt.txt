@@ -1,0 +1,51 @@
+This is cutadapt 5.0 with Python 3.9.6
+Command line parameters: -e 0.1 -m 50 -g ^TAGAACAGGCTCCTCTAG -a GCATAGTGGGGTATCTAA -o /Users/marnavisagie/Documents/DNA_trail_02/output/trimmed/301_S82_L001_trimmed.fastq /Users/marnavisagie/Documents/DNA_trail_02/output/merged/301_S82_L001_merged.fastq
+Processing single-end reads on 1 core ...
+
+=== Summary ===
+
+Total reads processed:                  20,723
+Reads with adapters:                    20,636 (99.6%)
+
+== Read fate breakdown ==
+Reads that were too short:                 100 (0.5%)
+Reads written (passing filters):        20,623 (99.5%)
+
+Total basepairs processed:     2,824,981 bp
+Total written (filtered):      2,409,334 bp (85.3%)
+
+=== Adapter 1 ===
+
+Sequence: TAGAACAGGCTCCTCTAG; Type: anchored 5'; Length: 18; Trimmed: 423 times
+
+No. of allowed errors: 1
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+19	423	0.0	1	0 423
+
+
+=== Adapter 2 ===
+
+Sequence: GCATAGTGGGGTATCTAA; Type: regular 3'; Length: 18; Trimmed: 20213 times
+
+Minimum overlap: 3
+No. of allowed errors:
+1-9 bp: 0; 10-18 bp: 1
+
+Bases preceding removed adapters:
+  A: 70.4%
+  C: 0.0%
+  G: 29.6%
+  T: 0.0%
+  none/other: 0.0%
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+16	1	0.0	1	0 1
+18	24	0.0	1	7 17
+19	7812	0.0	1	4398 3414
+20	5867	0.0	1	3367 2500
+21	6500	0.0	1	4211 2289
+22	8	0.0	1	3 5
+50	1	0.0	1	0 1

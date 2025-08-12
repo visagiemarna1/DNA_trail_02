@@ -1,0 +1,14 @@
+# plot_type: 'table'
+# section_name: 'Merge & final QC summary (pipeline)'
+# description: 'Reads and mean Q per sample at: before merge, after merge (raw), after cleaning (final)'
+Sample,Reads before merge,MeanQ before,Reads after merge (raw),MeanQ after merge (raw),Reads after cleaning,MeanQ after cleaning
+293_S71_L001,63007,37.74,61245,41.98,61234,41.98
+294_S72_L001,80111,37.92,77065,41.97,77015,41.97
+295_S73_L001,53396,37.31,18756,41.97,18721,41.97
+296_S77_L001,57674,37.63,32593,41.97,32559,41.98
+297_S78_L001,70942,37.69,63825,41.97,63800,41.97
+298_S79_L001,68045,37.69,66846,41.98,66829,41.98
+299_S80_L001,48010,38.01,44755,41.97,44724,41.98
+300_S81_L001,51602,37.96,50624,41.98,50609,41.98
+301_S82_L001,46368,37.22,20723,41.96,20612,41.97
+MEAN,59906.11,37.69,48492.44,41.97,48455.89,41.98

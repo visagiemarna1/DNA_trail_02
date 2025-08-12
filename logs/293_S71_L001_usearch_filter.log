@@ -1,0 +1,10 @@
+usearch v11.0.667_i86osx64, 8.6Gb RAM, 8 cores
+(C) Copyright 2013-18 Robert C. Edgar, all rights reserved.
+https://drive5.com/usearch
+
+From 2024 donated to public domain under CC0-1.0 license
+
+00:00 5.6Mb     0.1% Filtering00:00 23Mb    100.0% Filtering, 100.0% passed
+     61242  Reads (61.2k)                    
+         8  Discarded reads with expected errs > 1.00
+     61234  Filtered reads (61.2k, 100.0%)

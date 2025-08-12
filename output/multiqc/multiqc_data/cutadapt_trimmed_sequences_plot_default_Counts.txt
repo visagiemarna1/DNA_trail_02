@@ -1,0 +1,10 @@
+Sample	0	1
+293_S71_L001_merged - Adapter 1	(18, 6)	(19, 988)
+294_S72_L001_merged - Adapter 1	(18, 12)	(19, 1284)
+295_S73_L001_merged - Adapter 1	(18, 2)	(19, 383)
+296_S77_L001_merged - Adapter 1	(18, 4)	(19, 671)
+297_S78_L001_merged - Adapter 1	(18, 10)	(19, 1162)
+298_S79_L001_merged - Adapter 1	(18, 11)	(19, 1188)
+299_S80_L001_merged - Adapter 1	(18, 4)	(19, 750)
+300_S81_L001_merged - Adapter 1	(18, 6)	(19, 834)
+301_S82_L001_merged - Adapter 1	(19, 423)	
